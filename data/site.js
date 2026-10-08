@@ -8,9 +8,9 @@ export const SITE = {
   role: "Photographer",
   tagline: "Live moments, never staged.",
   education: "Diploma — Kaapa Institute",
-  whatsapp: "", // digits with country code, e.g. "919876543210"  (needed for the contact form)
-  phone: "", // e.g. "+919876543210"
-  instagram: "", // handle without @
+  whatsapp: "918489750931", // digits with country code, e.g. "919876543210"  (needed for the contact form)
+  phone: "918489750931", // e.g. "+919876543210"
+  instagram: "https://www.instagram.com/akshh_x___?stkn=MTBxcjdwa28ycTV4OQ==", // handle without @
   email: "",
 };
 
